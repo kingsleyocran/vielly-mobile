@@ -1,0 +1,187 @@
+{
+    "appTitle": "Curve",
+    "getStarted": "DÉMARREZ",
+
+    "loading": "Chargement",
+    "retry": "RÉESSAYEZ",
+    "cancel": "ANNULER",
+    "done": "TERMINÉ",
+    "resendCode": "RENVOYER LE CODE",
+    "confirm": "CONFIRMER",
+    "youConnected": "VOUS ÊTES CONNECTÉ",
+    "noInternet": "SANS INTERNET",
+    "close": "PROCHE",
+    "sorry": "Désolé!",
+    "weCouldntFetchData": "Nous n'avons pas pu récupérer les données.",
+    "couldntPlaceCall": "Impossible de passer l'appel. Quelque chose s'est mal passé",
+
+
+    "couldNotConnectedToInternet": "Impossible d'actualiser. Assurez-vous que vous êtes connecté à Internet",
+    "couldNotSomethingWentWrong": "Impossible d'actualiser. Quelque chose s'est mal passé",
+    "looksLikeYoureOffline": "On dirait que vous êtes hors ligne. Assurez-vous que vous êtes connecté à Internet",
+
+    "noDriversAvailable": "Aucun pilote disponible",
+    "weCouldntFindAnyDriver": "Nous n'avons trouvé aucun chauffeur à proximité de votre emplacemente",
+    "noDriversAvailable": "Aucun pilote disponible",
+    "busHasNotStarted": "L'heure du ticket de bus n'a pas encore commencé. Assurez-vous que c'est le bon moment.",
+    "busHasNotYetStarted": "Le voyage en bus n'a pas encore commencé.",
+    "makeSureYouHaveSelectBusLane": "Assurez-vous d'avoir sélectionné une voie de bus",
+    "bookingBusTripFailed": "Échec de la réservation du trajet en bus",
+    "sorryWeCouldNotBusTrip": "Désolé, nous n'avons pas pu réserver votre voyage en bus. Veuillez réessayer.",
+
+    "safetyToolkit": "Boîte à outils de sécurité",
+    "featuresToHelpSafety": "Caractéristiques pour vous aider à vous sentir en sécurité pendant que vous roulez",
+    "shareRideDetails": "Partager les détails du trajet",
+    "shareLocationAndCarInfo": "Partager l'emplacement et les détails du trajet",
+    "emergencyAssist": "Aide d'urgence",
+    "callLocalAuthorities": "Appeler l'autorité locale",
+
+
+    "whatsYourNumber": "Quel est votre numéro ?",
+    "wellTextCode": "Nous vous enverrons un code par SMS pour vérifier votre téléphone",
+    "enterPhoneNumber": "Saisir le numéro de téléphone",
+    "changedNumber": "Vous avez changé de numéro? Trouvez votre compte",
+    "searchByCountry": "Recherche par nom de pays ou indicatif",
+    "invalidPhoneNumber": "Numéro de téléphone invalide",
+
+
+    "verifyYourNumber": "Vérifier votre numéro",
+    "enterTheCodeSent": "Entrez le code envoyé à",
+    "didntReceiveSMS": "Vous n'avez pas reçu de SMS ?",
+    "pleaseEnterValid": "Veuillez entrer un code de vérification valide",
+    "getNew": "Renvoyer",
+    "verify": "Vérifier",
+    "verifying": "Vérification",
+    "resending": "Renvoi",
+    "resendingCodeFailed": "Échec du renvoi du code",
+    "weCouldNotResend": "Nous n'avons pas pu renvoyer votre code. Veuillez réessayer.",
+    "verificationFailed": "Échec de la vérification",
+    "weCouldNotConfirmVerify": "Nous n'avons pas pu vérifier votre numéro de téléphone. Veuillez vérifier votre code de vérification et réessayer.",
+    "signInFailed": "Échec de la connexion!",
+    "weCouldNotConfirm": "Nous n'avons pas pu confirmer votre numéro de téléphone. Veuillez vérifier votre numéro et réessayer.",
+    "weCouldNotConfirmInternet": "Nous n'avons pas pu confirmer votre numéro de téléphone. Veuillez vérifier votre connexion Internet et réessayer.",
+    "verificationCodeSent": "Code de verification envoyé!",
+
+
+    "pleaseUseYourRealName": "Veuillez utiliser votre vrai nom ici",
+    "firstName": "Prénom",
+    "enterFirstName": "Entrez votre prénom",
+    "lastName": "Nom de famille",
+    "enterLastName": "Entrez votre nom de famille",
+    "name": "Nom",
+    "enterName": "Entrez votre nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "enterEmail": "Entrer votre Email",
+    "createYourProfile": "Créez votre profile",
+    "profileCreationFailed": "Échec de la création du profil",
+    "weCouldNotCreateProfile": "Nous n'avons pas pu créer votre profil. Veuillez réessayer.",
+    "createProfile": "CRÉER UN PROFIL",
+    "next": "SUIVANT",
+
+    "updateProfilePhoto": "La Photo de Profil",
+    "pickFromPhotoAlbum": "Choisir dans la galerie",
+    "takeAPhoto": "Prendre une photo",
+
+    "updateProfile": "EDITER LE PROFIL",
+    "yourTrips": "Vos voyages",
+    "referFriends": "Parrainez des amis",
+    "paymentMethods": "Méthodes de payement",
+    "becomeADriver": "Devenez chauffeur",
+
+    "helloThere": "Bonjour",
+    "needABus": "Besoin d'un bus ?",
+    "recentOrder": "Commande récente",
+    "seeAllTickets": "VOIR TOUS LES BILLETS",
+    "thereAreNoBusSchedules": "Il n'y a pas d'horaires de bus disponibles. Assurez-vous de recharger les horaires de bus.",
+
+    "busLane": "Voie de bus",
+    "selectBusLane": "Sélectionnez la voie de bus",
+    "pickupTerminal": "Terminal de bus de ramassage",
+    "selectPickupTerminal": "Sélectionner",
+    "dropOffTerminal": "Déposer l'arrêt de bus",
+    "selectDropOffTerminal": "Sélectionnez",
+    "date": "Date",
+    "selectDate": "Sélectionner une date",
+    "busTripTime": "Temps de trajet en bus",
+    "selectTimeDuration": "Sélectionnez la durée",
+    "searchBus": "Recherche d'autobus",
+
+
+    "departureTime": "Heure de départ",
+    "availableSeats": "Places libres",
+    "bookNow": "ACHETER",
+
+
+    "pickUp": "Récupérer",
+    "dropOff": "Déposer",
+    "passengerName": "Nom du passager",
+    "seats": "Des places",
+    "download": "Télécharger",
+    "share": "Partager",
+    "trackTrip": "VOYAGE SUR PISTE",
+    "startTrip": "COMMENCER LE VOYAGE",
+    "goBack": "RETOURNER",
+
+    "edit": "ÉDITER",
+
+    "ticket": "Billet",
+    "bookedTickets": "Billets réservés",
+
+    "downloading": "Téléchargement",
+    "downloadTicketFailed": "Échec du téléchargement du ticket",
+    "downloadTicketSuccess": "Billet téléchargé avec succès",
+
+
+    "ticketPrice": "Prix du billet",
+    "howManySeats": "Combien de places?",
+    "thereNoSeats": "Il n'y a pas de places disponibles pour cet horaire de bus pour le moment, veuillez réserver un autre horaire.",
+    "busTripDetails": "Détails du Voyage",
+
+
+    "showTicket": "SPECTACLE BILLET",
+    "destination": "Destination",
+    "safetyTools": "Outils de sécurité",
+
+
+    "paymentOptions": "Options de Paiement",
+    "editPayment": "Modifier le Paiement",
+    "addPayment": "Ajouter un Paiement",
+    "provider": "Fournisseur",
+    "delete": "EFFACER",
+    "addNew": "AJOUTER NOUVEAU",
+    "add": "AJOUTER",
+    "paymentUpdated": "Mode de paiement mis à jour",
+    "paymentCreated": "Mode de paiement créé avec succès",
+    "selectProvider": "Sélectionnez le fournisseur",
+    "addingPaymentFailed": "Échec de l'ajout d'un nouveau mode de paiement",
+    "sorryWeCouldntAddPayment": "Désolé, nous n'avons pas pu ajouter le mode de paiement. Veuillez réessayer.",
+    "updatingPaymentFailed": "Échec de la mise à jour de ce mode de paiement",
+    "sorryWeCouldntUpdatePayment": "Désolé, nous n'avons pas pu mettre à jour votre mode de paiement. Veuillez réessayer.",
+    "deletePayment": "Delete payment method?",
+    "ifYouChooseDeletePayment": "Si vous choisissez de supprimer, ce mode de paiement sera supprimé",
+    "deletingPaymentFailed": "Échec de la suppression de ce mode de paiement",
+    "sorryWeCouldntDeletePayment": "Désolé, nous n'avons pas pu supprimer le mode de paiement. Veuillez réessayer.",
+
+
+
+    "editingProfileFailed": "Échec de la modification de votre profil",
+    "sorryWeCouldntEditProfile": "Nous n'avons pas pu modifier votre profil. Veuillez réessayer.",
+    "profileUpdated": "Profil mis à jour",
+    "updating": "Mise à jour",
+    "changePhoneNumber": "CHANGER DE NUMÉRO DE TÉLÉPHONE",
+    "save": "ENREGISTRER",
+    "editProfile": "Editer le Profil",
+    "makeSureValidName": "Assurez-vous d'avoir entré un nom valide",
+    "makeSureValidEmail": "Assurez-vous d'avoir entré un email valide",
+
+
+
+    "testingPub": "TESTING"
+
+
+
+
+
+
+}

@@ -1,0 +1,195 @@
+{
+    "appTitle": "Curve",
+    "getStarted": "GET STARTED",
+
+    "loading": "Loading",
+    "retry": "RETRY",
+    "cancel": "CANCEL",
+    "done": "DONE",
+    "resendCode": "RESEND CODE",
+    "confirm": "CONFIRM",
+    "youConnected": "YOU'RE CONNECTED",
+    "noInternet": "NO INTERNET",
+    "close": "CLOSE",
+    "sorry": "Sorry!",
+    "weCouldntFetchData": "We couldn't fetch data.",
+    "couldntPlaceCall": "Couldn't place call. Something went wrong",
+
+
+    "couldNotConnectedToInternet": "Could not refresh. Make sure you're connected to the internet",
+    "couldNotSomethingWentWrong": "Could not refresh. Something went wrong",
+    "looksLikeYoureOffline": "Looks like you're offline. Make sure you're connected to the internet",
+
+    "noDriversAvailable": "No Drivers available",
+    "weCouldntFindAnyDriver": "We couldn't find any driver around your locatione",
+    "noDriversAvailable": "No Drivers available",
+    "busHasNotStarted": "The bus ticket time has not yet started. Make sure it is the right time.",
+    "busHasNotYetStarted": "Bus Trip not yet started.",
+    "makeSureYouHaveSelectBusLane": "Make sure you have selected a bus lane",
+    "bookingBusTripFailed": "Booking bus trip failed",
+    "sorryWeCouldNotBusTrip": "Sorry we could not book your bus trip. Please try again.",
+
+    "safetyToolkit": "Safety Toolkit",
+    "featuresToHelpSafety": "Features to help you feel safe and secure while you ride",
+    "shareRideDetails": "Share ride details",
+    "shareLocationAndCarInfo": "Share location and car info",
+    "emergencyAssist": "Emergency assist",
+    "callLocalAuthorities": "Call local authority",
+
+
+    "whatsYourNumber": "What’s your number?",
+    "wellTextCode": "We’ll text you a code to verify your phone",
+    "enterPhoneNumber": "Enter phone number",
+    "changedNumber": "Changed your number? Find your account",
+    "searchByCountry": "Search by country name or dial code",
+    "invalidPhoneNumber": "Invalid phone number",
+
+
+
+    "verifyYourNumber": "Verify your number",
+    "enterTheCodeSent": "Enter the code sent to",
+    "didntReceiveSMS": "Didn’t receive an SMS?",
+    "pleaseEnterValid": "Please enter a valid verification code",
+    "getNew": "Get New",
+    "verify": "VERIFY",
+    "verifying": "Verifying",
+    "resending": "Resending",
+    "resendingCodeFailed": "Resending code failed",
+    "weCouldNotResend": "We could not resend your code. Please try again.",
+    "verificationFailed": "Verification failed",
+    "weCouldNotConfirmVerify": "'We could not verify your phone number. Please check your verification code and retry.'",
+    "signInFailed": "Sign in failed!",
+    "weCouldNotConfirm": "We could not confirm your phone number. Please check your number and retry.",
+    "weCouldNotConfirmInternet": "We could not confirm your phone number. Please check your internet connectivity and try again.",
+    "verificationCodeSent": "Verification code sent!",
+
+
+    "pleaseUseYourRealName": "Please use your real name here",
+    "firstName": "First Name",
+    "enterFirstName": "Enter your first name",
+    "lastName": "Last Name",
+    "enterLastName": "Enter your last name",
+    "name": "Name",
+    "enterName": "Enter your name",
+    "email": "Email",
+    "phone": "Phone",
+    "enterEmail": "Enter your email",
+    "createYourProfile": "Create your profile",
+    "profileCreationFailed": "Profile creation failed",
+    "weCouldNotCreateProfile": "We could not create your profile. Please try again.",
+    "createProfile": "CREATE PROFILE",
+    "next": "NEXT",
+
+    "updateProfilePhoto": "Update profile photo",
+    "pickFromPhotoAlbum": "Pick from photo album",
+    "takeAPhoto": "Take a photo",
+
+    "updateProfile": "UPDATE PROFILE",
+    "yourTrips": "Your Trips",
+    "referFriends": "Refer friends",
+    "paymentMethods": "Payment Methods",
+    "becomeADriver": "Become a Driver",
+
+    "helloThere": "Hello there",
+    "needABus": "Need a Bus?",
+    "recentOrder": "Recent Order",
+    "seeAllTickets": "SEE ALL TICKETS",
+    "thereAreNoBusSchedules": "There are no bus schedules available. Make sure to reload the bus schedules",
+
+    "busLane": "Bus Lane",
+    "selectBusLane": "Select Bus Lane",
+    "pickupTerminal": "Pick-up Terminal",
+    "selectPickupTerminal": "Select Pick-up Spot",
+    "dropOffTerminal": "Drop-off Terminal",
+    "selectDropOffTerminal": "Select Drop-off Spot",
+    "date": "Date",
+    "selectDate": "Select Date",
+    "busTripTime": "Bus Trip Time",
+    "selectTimeDuration": "Select Time Duration",
+    "searchBus": "Search Bus",
+
+
+    "departureTime": "Departure Time",
+    "availableSeats": "Available Seats",
+    "bookNow": "BOOK NOW",
+
+    "pickUp": "Pick-up",
+    "dropOff": "Drop-off",
+    "passengerName": "Passenger Name",
+    "seats": "Seats",
+    "download": "Download",
+    "share": "Share",
+    "trackTrip": "TRACK TRIP",
+    "startTrip": "START TRIP",
+    "goBack": "GO BACK",
+
+    "edit": "EDIT",
+
+    "ticket": "Ticket",
+    "bookedTickets": "Booked Tickets",
+
+    "downloading": "Downloading",
+    "downloadTicketFailed": "Downloading ticket failed",
+    "downloadTicketSuccess": "Ticket downloaded successfully",
+
+    "ticketPrice": "Ticket Price",
+    "howManySeats": "How many seats?",
+    "thereNoSeats": "There are no available seats for this bus schedule as of this time, Kindly book another schedule.",
+    "busTripDetails": "Bus Trip Details",
+
+
+    "showTicket": "SHOW TICKET",
+    "destination": "Destination",
+    "safetyTools": "Safety Tools",
+
+
+
+    "paymentOptions": "Payment Options",
+    "editPayment": "Edit Payment",
+    "addPayment": "Add Payment",
+    "provider": "Provider",
+    "delete": "DELETE",
+    "addNew": "ADD NEW",
+    "add": "ADD",
+    "paymentUpdated": "Payment method updated",
+    "paymentCreated": "Payment method created successfully",
+    "selectProvider": "Select Provider",
+    "addingPaymentFailed": "Adding a new payment method failed",
+    "sorryWeCouldntAddPayment": "Sorry we could not add the payment method. Please try again.",
+    "updatingPaymentFailed": "Updating this payment method failed",
+    "sorryWeCouldntUpdatePayment": "Sorry we could not update your payment method. Please try again.",
+    "deletePayment": "Delete payment method?",
+    "ifYouChooseDeletePayment": "If you choose delete, this payment method will be deleted",
+    "deletingPaymentFailed": "Deleting this payment method failed",
+    "sorryWeCouldntDeletePayment": "Sorry we could not delete the payment method. Please try again.",
+
+
+
+    "editingProfileFailed": "Editing your profile failed",
+    "sorryWeCouldntEditProfile": "We could not edit your profile. Please try again.",
+    "profileUpdated": "Profile Updated",
+    "updating": "Updating",
+    "changePhoneNumber": "CHANGE PHONE NUMBER",
+    "save": "SAVE",
+    "editProfile": "Edit Profile",
+    "makeSureValidName": "Make sure you have entered a valid name",
+    "makeSureValidEmail": "Make sure you have entered a valid email",
+
+    "enterDestination": "Enter Destination",
+    "currentLocation": "Current Location",
+
+
+
+    "testingPub": "TESTING PUB",
+
+    "whereTo": "Where To?",
+    "now": "Now",
+    "findByRoute": "Find By Bus Route",
+    "viewBusRoutes": "View Available Bus Routes",
+    "findByLocation": "Find By Location Predictions",
+    "availableRoutes": "Available Routes",
+    "chooseARide": "Choose a Ride",
+
+    "scheduleABusRide": "Schedule a Bus ride",
+    "set": "SET"
+}

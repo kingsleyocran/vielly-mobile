@@ -1,0 +1,16 @@
+<svg id="Layer_x0020_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.192" height="46.192" viewBox="0 0 46.192 46.192">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.491" y1="0.319" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdca47"/>
+      <stop offset="1" stop-color="#fa8532"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.491" y1="0.319" x2="0.5" y2="0.06" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="_2077496081392" transform="translate(0 0)">
+    <path id="Path_2032" data-name="Path 2032" d="M39.159,9.47A20.955,20.955,0,0,0,3.41,24.265,21.033,21.033,0,0,0,24.365,45.219,21.033,21.033,0,0,0,45.319,24.265,20.715,20.715,0,0,0,39.159,9.47Z" transform="translate(-1.269 -1.232)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2033" data-name="Path 2033" d="M23.1,0a23.1,23.1,0,0,1,0,46.192A23.1,23.1,0,0,1,23.1,0ZM37.444,8.747A20.32,20.32,0,0,0,2.776,23.1,20.389,20.389,0,0,0,23.1,43.416,20.389,20.389,0,0,0,43.416,23.1,20.088,20.088,0,0,0,37.444,8.747Z" transform="translate(0 0)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_500" data-name="Ellipse 500" cx="3.447" cy="3.447" r="3.447" transform="translate(9.978 18.047)"/>
+    <circle id="Ellipse_501" data-name="Ellipse 501" cx="3.447" cy="3.447" r="3.447" transform="translate(29.193 18.047)"/>
+    <path id="Path_2034" data-name="Path 2034" d="M22.576,54.672a1.8,1.8,0,0,0,1.664-.37c2.405-2.958,4.006-4.37,7.328-4.251A8.042,8.042,0,0,1,38.1,54.175a1.375,1.375,0,0,0,1.783.308,1.733,1.733,0,0,0,.553-1.909c-1.664-3.328-4.678-5.174-8.992-5.608a10.461,10.461,0,0,0-9.608,5.852,1.53,1.53,0,0,0,.741,1.783v.063Z" transform="translate(-8.102 -17.472)" fill-rule="evenodd"/>
+  </g>
+</svg>
